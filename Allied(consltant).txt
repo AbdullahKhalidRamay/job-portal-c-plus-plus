@@ -1,0 +1,10 @@
+Applicant Details:
+
+we are giving 25 student internship.
+we are giving 25000rs per month.
+reqirement student know this 3 language
+
+1 html
+2css
+3
+java

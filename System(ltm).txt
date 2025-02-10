@@ -1,0 +1,21 @@
+Applicant Details:
+
+
+
+
+
+
+
+
+we want you to create job portal.
+
+we want you to make job portal in 10000rs
+
+Candidate Details:
+Name: abdullah, gender: male, contact no: 03008675410, Email: abdullahkhalidak225@gmail.com, Education: BS(CS), Experience: beginner
+
+Candidate Details:
+Name: mamoon , gender: male, contact no: 03018675410, Email: abdullahkhalidak@gmail.com, Education: BS(CS), Experience: Beginner
+
+Candidate Details:
+Name: M.Abdullah, gender: male, contact no: 03361472800, Email: m.abdullah123@gamil.com, Education: BS(CS), Experience: Beginner
