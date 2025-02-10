@@ -1,2 +1,2 @@
-# job-portal-c-plus-plus
+# job-portal-c++
 Job Portal
